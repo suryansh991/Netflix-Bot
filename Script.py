@@ -1,20 +1,20 @@
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {}
     
-Sᴏʀʀʏ ɪ ᴏɴʟʏ ᴡᴏʀᴋ ᴏɴ <a href='https://t.me/Netflix_Movies_Group'>ɴᴇᴛғʟɪx ᴍᴏᴠɪᴇs</a> Gʀᴏᴜᴘ. Nᴏ ᴏᴛʜᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴡɪʟʟ ᴡᴏʀᴋ ᴏɴ ᴛʜɪs ʙᴏᴛ ᴇxᴄᴇᴘᴛ sᴛᴀʀᴛ. ᴅᴏɴ’ᴛ ᴡᴀsᴛᴇ ʏᴏᴜʀ ᴛɪᴍᴇ</b>
+Sᴏʀʀʏ ɪ ᴏɴʟʏ ᴡᴏʀᴋ ᴏɴ <a href='https://t.me/DarkestMarket666'>Darkest Market</a> Gʀᴏᴜᴘ. Nᴏ ᴏᴛʜᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴡɪʟʟ ᴡᴏʀᴋ ᴏɴ ᴛʜɪs ʙᴏᴛ ᴇxᴄᴇᴘᴛ sᴛᴀʀᴛ. ᴅᴏɴ’ᴛ ᴡᴀsᴛᴇ ʏᴏᴜʀ ᴛɪᴍᴇ</b>
 """
     HELP_TXT = """<b>Hᴇʟʟᴏ {}
     
-Sᴏʀʀʏ ɪ ᴏɴʟʏ ᴡᴏʀᴋ ᴏɴ <a href='https://t.me/Netflix_Movies_Group'>ɴᴇᴛғʟɪx ᴍᴏᴠɪᴇs</a> Gʀᴏᴜᴘ. Nᴏ ᴏᴛʜᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴡɪʟʟ ᴡᴏʀᴋ ᴏɴ ᴛʜɪs ʙᴏᴛ ᴇxᴄᴇᴘᴛ sᴛᴀʀᴛ. ᴅᴏɴ’ᴛ ᴡᴀsᴛᴇ ʏᴏᴜʀ ᴛɪᴍᴇ</b>"""
+Sᴏʀʀʏ ɪ ᴏɴʟʏ ᴡᴏʀᴋ ᴏɴ <a href='https://t.me/DarkestMarket666'>Darkest Market</a> Gʀᴏᴜᴘ. Nᴏ ᴏᴛʜᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴡɪʟʟ ᴡᴏʀᴋ ᴏɴ ᴛʜɪs ʙᴏᴛ ᴇxᴄᴇᴘᴛ sᴛᴀʀᴛ. ᴅᴏɴ’ᴛ ᴡᴀsᴛᴇ ʏᴏᴜʀ ᴛɪᴍᴇ</b>"""
     ABOUT_TXT = """<b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : sᴀʀᴀᴛʜɪ
-• ᴜꜱᴇʀɴᴀᴍᴇ : @Sarathi_admin
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/Sarathi_admin'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+• ꜰᴜʟʟ ɴᴀᴍᴇ : Suryansh
+• ᴜꜱᴇʀɴᴀᴍᴇ : @Suryansh_Pandit1
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/Suryansh_Pandit1'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 “ Failure is an option here. If things are not failing, you are not innovating enough. ”</b>"""
     SOURCE_TXT = """<b>NOTE:</b>
 
-- ഇപ്പൊ കിട്ടും നോക്കി ഇരുന്നോ .
+- Not an Open Source .
 
 <b>DEVS:</b>
 - <a href=https://t.me/ss_linkz>ss ʟɪɴᴋᴢ</a>"""
