@@ -11,7 +11,6 @@ Sᴏʀʀʏ ɪ ᴏɴʟʏ ᴡᴏʀᴋ ᴏɴ <a href='https://t.me/DarkestMarket666
 • ꜰᴜʟʟ ɴᴀᴍᴇ : Suryansh
 • ᴜꜱᴇʀɴᴀᴍᴇ : @Suryansh_Pandit1
 • ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/Suryansh_Pandit1'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-“ Failure is an option here. If things are not failing, you are not innovating enough. ”</b>"""
     SOURCE_TXT = """<b>NOTE:</b>
 
 - Not an Open Source .
