@@ -64,7 +64,7 @@ async def song(bot, update):
 @Client.on_message(filters.command('about'))
 async def about(bot, update):
     await update.reply_photo(
-            photo="https://telegra.ph/file/b076746aa3cafabb3d2a5.jpg",
+            photo="https://te.legra.ph/file/dcaebfc72b12e13fb91a4.jpg",
             caption='എനിക്ക് പ്രേത്യേകിച്ച് about,കഴിവ് ഒന്നും ഇല്ല..എന്റെ മുതലാളി ആണ് എന്റെ എല്ലാം (SHIVA SIR) Just മുതലാളി പറയും ഞാൻ അത് അനുസരിക്കും.. അനുസരിച്ചാൽ എനിക്ക് bun കിട്ടും.. 😌'
     )
 
