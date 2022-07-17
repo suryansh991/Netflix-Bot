@@ -66,7 +66,7 @@ async def about(bot, update):
     await update.reply_photo(
             photo="https://te.legra.ph/file/dcaebfc72b12e13fb91a4.jpg",
             caption='✯ Mʏ Nᴀᴍᴇ : BᴀᴛMᴀɴ'
-                     ✯ Cʀᴇᴀᴛᴏʀ : Sᴜʀʏᴀɴsᕼ'
+                     ✯ Cʀᴇᴀᴛᴏʀ : Sᴜʀʏᴀɴsᕼ
                      ✯ Mᴀɪɴ Gʀᴏᴜᴘ [Aᴜᴛᴏ Rᴇǫᴜᴇsᴛ Mᴏᴠɪᴇs]⚡️'
     )
 
