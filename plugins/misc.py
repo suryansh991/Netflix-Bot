@@ -66,9 +66,7 @@ async def about(bot, update):
     await update.reply_photo(
             photo="https://te.legra.ph/file/dcaebfc72b12e13fb91a4.jpg",
             caption='Mʏ Nᴀᴍᴇ: BᴀᴛMᴀɴ'
-                      Cʀᴇᴀᴛᴏʀ: Sᴜʀʏᴀɴsᕼ
-                      Mᴀɪɴ Gʀᴏᴜᴘ: [Darkest Market]⚡️'
-    )
+ )
 
 @Client.on_message(filters.command('source'))
 async def source(bot, update):
