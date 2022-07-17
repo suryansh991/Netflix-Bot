@@ -11,6 +11,7 @@ Sᴏʀʀʏ ɪ ᴏɴʟʏ ᴡᴏʀᴋ ᴏɴ <a href='https://t.me/DarkestMarket666
 • ꜰᴜʟʟ ɴᴀᴍᴇ : Suryansh
 • ᴜꜱᴇʀɴᴀᴍᴇ : @Suryansh_Pandit1
 • ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/Suryansh_Pandit1'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+
     SOURCE_TXT = """<b>NOTE:</b>
 
 - Not an Open Source .
