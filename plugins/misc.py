@@ -65,7 +65,9 @@ async def song(bot, update):
 async def about(bot, update):
     await update.reply_photo(
             photo="https://te.legra.ph/file/dcaebfc72b12e13fb91a4.jpg",
-            caption='✯ Mʏ Nᴀᴍᴇ : BᴀᴛMᴀɴ✯ Cʀᴇᴀᴛᴏʀ : Sᴜʀʏᴀɴsᕼ ✯Mᴀɪɴ Gʀᴏᴜᴘ [Aᴜᴛᴏ Rᴇǫᴜᴇsᴛ Mᴏᴠɪᴇs]⚡️'
+            caption='✯ Mʏ Nᴀᴍᴇ : BᴀᴛMᴀɴ'
+            caption='✯ Cʀᴇᴀᴛᴏʀ : Sᴜʀʏᴀɴsᕼ'
+            caption='✯ Mᴀɪɴ Gʀᴏᴜᴘ [Aᴜᴛᴏ Rᴇǫᴜᴇsᴛ Mᴏᴠɪᴇs]⚡️'
     )
 
 @Client.on_message(filters.command('source'))
