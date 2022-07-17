@@ -11,7 +11,7 @@ Sᴏʀʀʏ ɪ ᴏɴʟʏ ᴡᴏʀᴋ ᴏɴ <a href='https://t.me/DarkestMarket666
 • ꜰᴜʟʟ ɴᴀᴍᴇ : Suryansh
 • ᴜꜱᴇʀɴᴀᴍᴇ : @Suryansh_Pandit1
 • ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/Suryansh_Pandit1'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-“ It's not who I am underneath, but what I do that defines me. ”</b>"""
+“ Iᴛ's ɴᴏᴛ ᴡᕼᴏ I ᴀᴍ ᴜɴᴅᴇʀɴᴇᴀᴛᕼ, ʙᴜᴛ ᴡᕼᴀᴛ I ᴅᴏ ᴛᕼᴀᴛ ᴅᴇғIɴᴇs ᴍᴇ. ”</b>"""
     SOURCE_TXT = """<b>NOTE:</b>
 
 - Not an Open Source .
