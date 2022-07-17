@@ -624,11 +624,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "close":
         await query.message.delete()
     elif query.data == 'info':
-        await query.answer("⚠︎ Information ⚠︎\n\nAfter 30 minutes this message will be automatically deleted\n\nIf you do not see the requested movie / series file, look at the next page\n\nⒸ ɴᴇᴛғʟɪx ᴍᴏᴠɪᴇs ɢʀᴏᴜᴘ", True)
+        await query.answer("⚠︎ Information ⚠︎\n\nAfter 30 minutes this message will be automatically deleted\n\nIf you do not see the requested movie / series file, look at the next page\n\nⒸ Dᴀʀᴋᴇsᴛ Mᴀʀᴋᴇᴛ", True)
     elif query.data == 'movies':
-        await query.answer("ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇsᴛ ғᴏʀᴍᴀᴛ\n\nɢᴏ ᴛᴏ ɢᴏᴏɢʟᴇ ➠ ᴛʏᴘᴇ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ ➠ ᴄᴏᴘʏ ᴄᴏʀʀᴇᴄᴛ ɴᴀᴍᴇ ➠ ᴘᴀsᴛᴇ ɪɴ ᴛʜɪs ɢʀᴏᴜᴘ\n\nᴇxᴀᴍᴘʟᴇ : ᴍᴀsᴛᴇʀ ᴏʀ ᴍᴀsᴛᴇʀ 2021\n\n🚯 ᴅᴏɴᴛ ᴜsᴇ ➠ ':(!,./)\n\nⒸ ɴᴇᴛғʟɪx ᴍᴏᴠɪᴇs ɢʀᴏᴜᴘ", True)
+        await query.answer("ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇsᴛ ғᴏʀᴍᴀᴛ\n\nɢᴏ ᴛᴏ ɢᴏᴏɢʟᴇ ➠ ᴛʏᴘᴇ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ ➠ ᴄᴏᴘʏ ᴄᴏʀʀᴇᴄᴛ ɴᴀᴍᴇ ➠ ᴘᴀsᴛᴇ ɪɴ ᴛʜɪs ɢʀᴏᴜᴘ\n\nᴇxᴀᴍᴘʟᴇ : ᴍᴀsᴛᴇʀ ᴏʀ ᴍᴀsᴛᴇʀ 2021\n\n🚯 ᴅᴏɴᴛ ᴜsᴇ ➠ ':(!,./)\n\nⒸ Dᴀʀᴋᴇsᴛ Mᴀʀᴋᴇᴛ", True)
     elif query.data == 'series':
-        await query.answer("sᴇʀɪᴇs ʀᴇǫᴜᴇsᴛ ғᴏʀᴍᴀᴛ\n\nɢᴏ ᴛᴏ ɢᴏᴏɢʟᴇ ➠ ᴛʏᴘᴇ sᴇʀɪᴇs ɴᴀᴍᴇ ➠ ᴄᴏᴘʏ ᴄᴏʀʀᴇᴄᴛ ɴᴀᴍᴇ ➠ ᴘᴀsᴛᴇ ɪɴ ᴛʜɪs ɢʀᴏᴜᴘ\n\nᴇxᴀᴍᴘʟᴇ : Alive ᴏʀ Alive S01E01\n\n🚯 ᴅᴏɴᴛ ᴜsᴇ ➠ ':(!,./)\n\nⒸ ɴᴇᴛғʟɪx ᴍᴏᴠɪᴇs ɢʀᴏᴜᴘ", True)
+        await query.answer("sᴇʀɪᴇs ʀᴇǫᴜᴇsᴛ ғᴏʀᴍᴀᴛ\n\nɢᴏ ᴛᴏ ɢᴏᴏɢʟᴇ ➠ ᴛʏᴘᴇ sᴇʀɪᴇs ɴᴀᴍᴇ ➠ ᴄᴏᴘʏ ᴄᴏʀʀᴇᴄᴛ ɴᴀᴍᴇ ➠ ᴘᴀsᴛᴇ ɪɴ ᴛʜɪs ɢʀᴏᴜᴘ\n\nᴇxᴀᴍᴘʟᴇ : Alive ᴏʀ Alive S01E01\n\n🚯 ᴅᴏɴᴛ ᴜsᴇ ➠ ':(!,./)\n\nⒸ Dᴀʀᴋᴇsᴛ Mᴀʀᴋᴇᴛ", True)
     elif query.data == 'spelling':
         await query.answer("⚠️Search Google.com Find the Correct Spelling of Movie Name and Year. Type that in Group to get the Files⚠️", True)
     try: await query.answer('Piracy Is Crime') 
@@ -769,7 +769,7 @@ async def advantage_spell_chok(msg):
     g_s += await search_gagala(msg.text)
     gs_parsed = []
     if not g_s:
-        k = await msg.reply("<b>I couldn't find any movie in that name.\n\n<a href='https://t.me/Waste_Time_TG'>Support Group</a></b>")
+        k = await msg.reply("<b>I couldn't find any movie in that name.\n\n<a href='https://t.me/DarkestMarket666'>Support Group</a></b>")
         await asyncio.sleep(8)
         await k.delete()
         return
