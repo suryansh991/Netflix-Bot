@@ -78,9 +78,8 @@ async def source(bot, update):
 @Client.on_message(filters.command('help'))
 async def help(bot, update):
     await update.reply_photo(
-            photo="https://te.legra.ph/file/795201c8f091a21c87383.jpg",Nᴏ ᴏᴛʜᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴡɪʟʟ ᴡᴏʀᴋ ᴏɴ ᴛʜɪs ʙᴏᴛ ᴇxᴄᴇᴘᴛ sᴛᴀʀᴛ. ᴅᴏɴ’ᴛ ᴡᴀsᴛᴇ ʏᴏᴜʀ ᴛɪᴍᴇ
-
-Iғ ʏᴏᴜ ᴡᴀɴᴛ ᴀɴʏ ʜᴇʟᴘ Jᴏɪɴ ʜᴇʀᴇ 👇🏻'
+            photo="https://te.legra.ph/file/795201c8f091a21c87383.jpg",
+            caption='Nᴏ ᴏᴛʜᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴡɪʟʟ ᴡᴏʀᴋ ᴏɴ ᴛʜɪs ʙᴏᴛ ᴇxᴄᴇᴘᴛ sᴛᴀʀᴛ. ᴅᴏɴ’ᴛ ᴡᴀsᴛᴇ ʏᴏᴜʀ ᴛɪᴍᴇIғ ʏᴏᴜ ᴡᴀɴᴛ ᴀɴʏ ʜᴇʟᴘ Jᴏɪɴ ʜᴇʀᴇ 👇🏻'
     )
 
 @Client.on_message(filters.command(["info"]))
