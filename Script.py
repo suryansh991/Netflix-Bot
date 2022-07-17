@@ -17,7 +17,7 @@ Sᴏʀʀʏ ɪ ᴏɴʟʏ ᴡᴏʀᴋ ᴏɴ <a href='https://t.me/DarkestMarket666
 - Not an Open Source .
 
 <b>DEVS:</b>
-- <a href=https://t.me/Suryansh_Pandit1>ss ʟɪɴᴋᴢ</a>"""
+- <a href=https://t.me/Suryansh_Pandit1>Dᴀʀᴋᴇsᴛ Mᴀʀᴋᴇᴛ</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and 𝕋𝔼𝕊𝕊𝔸 will respond whenever a keyword is found the message
